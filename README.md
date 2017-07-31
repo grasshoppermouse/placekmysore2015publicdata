@@ -10,3 +10,5 @@ Placek CD, Madhivanan P, and Hagen, EH. Innate food aversions and culturally tra
 # install.packages("devtools")
 devtools::install_github("grasshoppermouse/placekmysore2015publicdata")
 ```
+
+[![DOI](https://zenodo.org/badge/98913705.svg)](https://zenodo.org/badge/latestdoi/98913705)
