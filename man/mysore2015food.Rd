@@ -54,7 +54,7 @@
   \item{\code{sweets_averse}}{logical. Is the participant averse to at least one sweet?}
 }}
 \source{
-\url{placekmysore2015publicdata}
+\url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
 }
 \usage{
 mysore2015food

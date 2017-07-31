@@ -12,7 +12,7 @@
 #'   \item{\code{Education}}{double. Number of years of education.}
 #'   \item{\code{birthno}}{double. Number of births.}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
 "mysore2015dem"
 
 #' Explanatory variables for the study
@@ -52,7 +52,7 @@
 #'   \item{fs6}{'[I/we] couldn't afford to eat balanced meals.' Was that often, sometimes, or never true for you in the last 12 months? (0 = never, 1 = sometimes, 2 = often)}
 #'   \item{fstotal}{total food insecurity score computed per Blumberg, Bialostosky, Hamilton, & Briefel (1999)}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
 "mysore2015exp"
 
 #' Free-listed food avoidances and aversions
@@ -110,7 +110,7 @@
 #'   \item{\code{grains_averse}}{logical. Is the participant averse to at least one grain?}
 #'   \item{\code{sweets_averse}}{logical. Is the participant averse to at least one sweet?}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
 "mysore2015food"
 
 #' Food photo ratings
@@ -184,5 +184,5 @@
 #'   \item{bittergourd32like}{current preference for bitter gourd}
 #'   \item{bittergourd.bplike32}{preference for bitter gourd before pregnancy}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
 "mysore2015photos"

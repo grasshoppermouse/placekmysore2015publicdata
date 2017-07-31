@@ -36,7 +36,7 @@
   \item{fstotal}{total food insecurity score computed per Blumberg, Bialostosky, Hamilton, & Briefel (1999)}
 }}
 \source{
-\url{placekmysore2015publicdata}
+\url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
 }
 \usage{
 mysore2015exp
