@@ -1,0 +1,19 @@
+Package: placekmysore2015publicdata
+Title: Data From Study of Pregnancy Diet in Mysore India 2015
+Version: 1.0.0
+Authors@R: person("Caitlyn", "Placek", email = "caitlyn.placek@gmail.com", role = c("aut", "cre"))
+Description: During pregnancy, many women report feelings of disgust toward
+    ordinary foods, and cravings for particular foods. The purpose of this study
+    is to answer questions about the socioecological, environmental, psychological,
+    and adaptive influences of such dietary shifts in pregnancy. Specifically,
+    this study aims to answer the following questions: 1) What role does social
+    learning (culture) and social norms have in the types of foods/non-foods that
+    are craved and avoided during pregnancy? 2) Do environmental factors, such as
+    resource scarcity (i.e. food insecurity) and pathogen risk, influence putative
+    dietary shifts in pregnancy? 3) What role does nausea and vomiting in
+    pregnancy (NVP) have in predicting dietary shifts?
+Depends:
+    R (>= 3.1.0)
+License: CC0
+LazyData: true
+RoxygenNote: 6.0.1
