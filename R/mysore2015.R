@@ -1,18 +1,19 @@
 
-#' mysore2015dem
-#'
+#' Demographic data on study participants.
+#' 
+#' Demographic data on study participants, such as population, age, and education.
 #'
 #' @format A data frame with 102 rows and 7 variables:
 #' \describe{
 #'   \item{\code{ID}}{double. Participant ID.}
-#'   \item{\code{Population}}{character. Villager (Rural farmer) or Jenu Kuruba.}
+#'   \item{\code{Population}}{character. Villager or Jenu Kuruba.}
 #'   \item{\code{Age}}{double. Age in years. This variable is omitted to maintain anonymity, but will be provided to researchers who agree to the terms of our IRB.}
 #'   \item{\code{months.preg}}{double. Months pregnant.}
-#'   \item{\code{trimester}}{double. Trimester.}
+#'   \item{\code{trimester}}{double. Trimester}
 #'   \item{\code{Education}}{double. Number of years of education.}
 #'   \item{\code{birthno}}{double. Number of births.}
 #' }
-#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
+#' @source \url{placekmysore2015publicdata}
 "mysore2015dem"
 
 #' Explanatory variables for the study
@@ -42,17 +43,17 @@
 #'   \item{pressure}{does anyone pressure to follow certain guidelines in pregnancy? (first person listed)}
 #'   \item{pressure2}{2nd person listed that gives pressure to follow pregnancy guidelines}
 #'   \item{pressure3}{3rd person listed that gives pressure to follow pregnancy guiedlines}
-#'   \item{totalhousehold}{total number of individuals living in house.  This variable is omitted to maintain anonymity, but will be provided to researchers who agree to the terms of our IRB.}
+#'   \item{totalhousehold}{total number of individuals living in house}
 #'   \item{friend.sis.pregnantYN}{Are any of your friends or sisters pregnant?}
-#'   \item{fs1}{In the last 12 months, since (date 12 months ago), did you (or other adults in your household) ever cut the size of your meals or skip meals because there wasn't enough money for food? (0 = no, 1 = yes)}
-#'   \item{fs2}{[Ask only if answered YES to fs1] How often did this happen? (0 = never; 1 = Some months but not every month; 2 = Almost every month)}
-#'   \item{fs3}{In the last 12 months, did you ever eat less than you felt you should because there wasn't enough money to buy food? (0 = no, 1 = yes)}
-#'   \item{fs4}{In the last 12 months, since (date 12 months ago), were you ever hungry but didn't eat because you couldn't afford enough food? (0 = no, 1 = yes)}
-#'   \item{fs5}{'The food that [I/we] bought just didn't last, and [I/we] didn't have money to get more.' Was that often, sometimes, or never true for you in the last 12 months? (0 = never, 1 = sometimes, 2 = often)}
-#'   \item{fs6}{'[I/we] couldn't afford to eat balanced meals.' Was that often, sometimes, or never true for you in the last 12 months? (0 = never, 1 = sometimes, 2 = often)}
-#'   \item{fstotal}{total food insecurity score computed per Blumberg, Bialostosky, Hamilton, & Briefel (1999)}
+#'   \item{fs1}{food insecurity item 1}
+#'   \item{fs2}{food insecurity item 2}
+#'   \item{fs3}{food insecurity item 3}
+#'   \item{fs4}{food insecurity item 4}
+#'   \item{fs5}{food insecurity item 5}
+#'   \item{fs6}{food insecurity item 6}
+#'   \item{fstotal}{total food insecurity score}
 #' }
-#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
+#' @source \url{placekmysore2015publicdata}
 "mysore2015exp"
 
 #' Free-listed food avoidances and aversions
@@ -110,7 +111,7 @@
 #'   \item{\code{grains_averse}}{logical. Is the participant averse to at least one grain?}
 #'   \item{\code{sweets_averse}}{logical. Is the participant averse to at least one sweet?}
 #' }
-#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
+#' @source \url{placekmysore2015publicdata}
 "mysore2015food"
 
 #' Food photo ratings
@@ -184,5 +185,5 @@
 #'   \item{bittergourd32like}{current preference for bitter gourd}
 #'   \item{bittergourd.bplike32}{preference for bitter gourd before pregnancy}
 #' }
-#' @source \url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
+#' @source \url{placekmysore2015publicdata}
 "mysore2015photos"

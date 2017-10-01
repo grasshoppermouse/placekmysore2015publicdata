@@ -25,18 +25,18 @@
   \item{pressure}{does anyone pressure to follow certain guidelines in pregnancy? (first person listed)}
   \item{pressure2}{2nd person listed that gives pressure to follow pregnancy guidelines}
   \item{pressure3}{3rd person listed that gives pressure to follow pregnancy guiedlines}
-  \item{totalhousehold}{total number of individuals living in house.  This variable is omitted to maintain anonymity, but will be provided to researchers who agree to the terms of our IRB.}
+  \item{totalhousehold}{total number of individuals living in house}
   \item{friend.sis.pregnantYN}{Are any of your friends or sisters pregnant?}
-  \item{fs1}{In the last 12 months, since (date 12 months ago), did you (or other adults in your household) ever cut the size of your meals or skip meals because there wasn't enough money for food? (0 = no, 1 = yes)}
-  \item{fs2}{[Ask only if answered YES to fs1] How often did this happen? (0 = never; 1 = Some months but not every month; 2 = Almost every month)}
-  \item{fs3}{In the last 12 months, did you ever eat less than you felt you should because there wasn't enough money to buy food? (0 = no, 1 = yes)}
-  \item{fs4}{In the last 12 months, since (date 12 months ago), were you ever hungry but didn't eat because you couldn't afford enough food? (0 = no, 1 = yes)}
-  \item{fs5}{'The food that [I/we] bought just didn't last, and [I/we] didn't have money to get more.' Was that often, sometimes, or never true for you in the last 12 months? (0 = never, 1 = sometimes, 2 = often)}
-  \item{fs6}{'[I/we] couldn't afford to eat balanced meals.' Was that often, sometimes, or never true for you in the last 12 months? (0 = never, 1 = sometimes, 2 = often)}
-  \item{fstotal}{total food insecurity score computed per Blumberg, Bialostosky, Hamilton, & Briefel (1999)}
+  \item{fs1}{food insecurity item 1}
+  \item{fs2}{food insecurity item 2}
+  \item{fs3}{food insecurity item 3}
+  \item{fs4}{food insecurity item 4}
+  \item{fs5}{food insecurity item 5}
+  \item{fs6}{food insecurity item 6}
+  \item{fstotal}{total food insecurity score}
 }}
 \source{
-\url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
+\url{placekmysore2015publicdata}
 }
 \usage{
 mysore2015exp

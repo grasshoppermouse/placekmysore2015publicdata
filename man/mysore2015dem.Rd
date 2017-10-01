@@ -3,24 +3,24 @@
 \docType{data}
 \name{mysore2015dem}
 \alias{mysore2015dem}
-\title{mysore2015dem}
+\title{Demographic data on study participants.}
 \format{A data frame with 102 rows and 7 variables:
 \describe{
   \item{\code{ID}}{double. Participant ID.}
-  \item{\code{Population}}{character. Villager (Rural farmer) or Jenu Kuruba.}
+  \item{\code{Population}}{character. Villager or Jenu Kuruba.}
   \item{\code{Age}}{double. Age in years. This variable is omitted to maintain anonymity, but will be provided to researchers who agree to the terms of our IRB.}
   \item{\code{months.preg}}{double. Months pregnant.}
-  \item{\code{trimester}}{double. Trimester.}
+  \item{\code{trimester}}{double. Trimester}
   \item{\code{Education}}{double. Number of years of education.}
   \item{\code{birthno}}{double. Number of births.}
 }}
 \source{
-\url{https://github.com/grasshoppermouse/placekmysore2015publicdata}
+\url{placekmysore2015publicdata}
 }
 \usage{
 mysore2015dem
 }
 \description{
-mysore2015dem
+Demographic data on study participants, such as population, age, and education.
 }
 \keyword{datasets}
