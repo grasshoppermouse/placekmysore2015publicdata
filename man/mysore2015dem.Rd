@@ -15,7 +15,7 @@
   \item{\code{birthno}}{double. Number of births.}
 }}
 \source{
-\url{placekmysore2015publicdata}
+\url{https://doi.org/10.5281/zenodo.836843}
 }
 \usage{
 mysore2015dem

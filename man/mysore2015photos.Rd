@@ -71,7 +71,7 @@
   \item{bittergourd.bplike32}{preference for bitter gourd before pregnancy}
 }}
 \source{
-\url{placekmysore2015publicdata}
+\url{https://doi.org/10.5281/zenodo.836843}
 }
 \usage{
 mysore2015photos

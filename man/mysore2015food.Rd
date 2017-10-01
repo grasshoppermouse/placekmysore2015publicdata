@@ -54,7 +54,7 @@
   \item{\code{sweets_averse}}{logical. Is the participant averse to at least one sweet?}
 }}
 \source{
-\url{placekmysore2015publicdata}
+\url{https://doi.org/10.5281/zenodo.836843}
 }
 \usage{
 mysore2015food

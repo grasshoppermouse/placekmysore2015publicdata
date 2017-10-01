@@ -13,7 +13,7 @@
 #'   \item{\code{Education}}{double. Number of years of education.}
 #'   \item{\code{birthno}}{double. Number of births.}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://doi.org/10.5281/zenodo.836843}
 "mysore2015dem"
 
 #' Explanatory variables for the study
@@ -53,7 +53,7 @@
 #'   \item{fs6}{food insecurity item 6}
 #'   \item{fstotal}{total food insecurity score}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://doi.org/10.5281/zenodo.836843}
 "mysore2015exp"
 
 #' Free-listed food avoidances and aversions
@@ -111,7 +111,7 @@
 #'   \item{\code{grains_averse}}{logical. Is the participant averse to at least one grain?}
 #'   \item{\code{sweets_averse}}{logical. Is the participant averse to at least one sweet?}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://doi.org/10.5281/zenodo.836843}
 "mysore2015food"
 
 #' Food photo ratings
@@ -185,5 +185,5 @@
 #'   \item{bittergourd32like}{current preference for bitter gourd}
 #'   \item{bittergourd.bplike32}{preference for bitter gourd before pregnancy}
 #' }
-#' @source \url{placekmysore2015publicdata}
+#' @source \url{https://doi.org/10.5281/zenodo.836843}
 "mysore2015photos"
